@@ -1,8 +1,8 @@
-## Project Title
+## Random Color Matching Game
 
 - Randomly Generated Color Matching Game
-- Built with Create-React-App
 - Installed shuffle-array and SweetAlert2
+- [Live Version Here](https://memgame.netlify.com/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
